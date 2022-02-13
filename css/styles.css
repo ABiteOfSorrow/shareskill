@@ -97,3 +97,15 @@ font-family: 'Roboto', sans-serif;
 .course:hover {
     text-decoration: none;
   }
+
+
+.jumbotron.jumbotron-fluid.eventbanner {
+    background-image: url('../images/conference.jpg');
+    background-size: cover;
+  }
+
+.conferenceBtn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
