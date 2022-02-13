@@ -109,3 +109,8 @@ font-family: 'Roboto', sans-serif;
     margin-left: auto;
     margin-right: auto;
   }
+
+.jumbotron.jumbotron-fluid.associationMap {
+    background-image: url('../images/gps.jpg');
+    background-size: cover;
+}
