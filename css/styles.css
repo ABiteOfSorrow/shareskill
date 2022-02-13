@@ -114,3 +114,11 @@ font-family: 'Roboto', sans-serif;
     background-image: url('../images/gps.jpg');
     background-size: cover;
 }
+
+.annonceTitle1, .mapTitle1 {
+    text-align: center;
+}
+
+.mapContent1, .mapTitle1 {
+    color: white;
+} 
