@@ -3,8 +3,20 @@
 
 <html>
   <head>
-    <title>ShareSkill</title>
+    <title>ShareSkill - Nous partageons votres talents</title>
     <meta charset="utf-8">
+    <meta name="author" content="ShareSkill ">
+    <meta name="robots" content="index, follow">
+    <meta name="title" content="ShareSkill - Nous partageons votres talents">
+    <meta name="description" content="partager votre talents, nous somme une association pour partager des talents de chacun">
+    <meta name="keywords" content="talents, partager">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ShareSkill - Nous partageons votres talents" />
+    <meta property="og:description" content="partager votre talents, nous somme une association pour partager des talents de chacun" />
+    <meta property="og:site_name" content="ShareSkill ">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="ShareSkill - Nous partageons votres talents" />
+    <meta name="twitter:description" content="partager votre talents, nous somme une association pour partager des talents de chacun" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
@@ -97,7 +109,7 @@
     <div class="row">
         <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course1.jpg" width="100%" class="course.img">
+          <img src="images/course1.jpg" width="100%" class="course.img" alt="illustration cours">
             <div class="info">
               <h4>Créez des illustrations uniques</h4>
               <div class="lecturer">
@@ -108,7 +120,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course2.jpg" width="100%" class="course.img">
+          <img src="images/course2.jpg" width="100%" class="course.img" alt="accessoires cours">
             <div class="info">
               <h4>Créez mes propres accessoires</h4>
               <div class="lecturer">
@@ -119,7 +131,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course3.jpg" width="100%" class="course.img">
+          <img src="images/course3.jpg" width="100%" class="course.img" alt="piano cours">
             <div class="info">
               <h4>Mon histoire en chanson!</h4>
               <div class="lecturer">
@@ -130,7 +142,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course4.jpg" width="100%" class="course.img">
+          <img src="images/course4.jpg" width="100%" class="course.img" alt="coding cours">
             <div class="info">
               <h4>Programmation Web pour les non-majors </h4>
               <div class="lecturer">
@@ -141,7 +153,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course5.jpg" width="100%" class="course.img">
+          <img src="images/course5.jpg" width="100%" class="course.img" alt="maquillage cours">
             <div class="info">
               <h4>Retrouvez la confiance! cours de maquillage</h4>
               <div class="lecturer">
@@ -152,7 +164,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course6.jpg" width="100%" class="course.img">
+          <img src="images/course6.jpg" width="100%" class="course.img" alt="danse cours">
             <div class="info">
               <h4>Conquérir la danse des idoles</h4>
               <div class="lecturer">
@@ -163,7 +175,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course7.jpg" width="100%" class="course.img">
+          <img src="images/course7.jpg" width="100%" class="course.img" alt="photo cours">
             <div class="info">
               <h4>Apprendre la photographie avec un photographe</h4>
               <div class="lecturer">
@@ -174,7 +186,7 @@
         </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-3">
           <a href="#" class="course">
-          <img src="images/course8.jpg" width="100%" class="course.img">
+          <img src="images/course8.jpg" width="100%" class="course.img" alt="fleurs cours">
             <div class="info">
               <h4>Cours de fleurs pour apprendre les bases</h4>
               <div class="lecturer">
